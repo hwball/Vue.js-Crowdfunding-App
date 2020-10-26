@@ -1,4 +1,4 @@
-Vue.js Crowdfunding App
+###Vue.js Crowdfunding App
 
 To start the backend service, and initialise the database:
 run:npm install on the server-api file and then npm start
